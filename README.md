@@ -7,5 +7,8 @@ Proograms like:-
 2. Maths
 3. List
 4. Data Types
+5. loop
+6. condition
+7. and more
 
 All the most basic programs
